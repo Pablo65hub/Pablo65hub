@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello there 👋
+WELCOME TO MY GITHUN PAGE 
+where I transform ideas into fully functional products.
+feel free to join me as soon as you are done checking on the code of conduct 
 <!--
 **Pablo65hub/Pablo65hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

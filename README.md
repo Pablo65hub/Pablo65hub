@@ -1,7 +1,6 @@
-## Hello there 👋
-Welcome to my GitHub 
+## Hi there 👋This my GitHub 
 where I transform ideas into fully functional products.
-Feel free to join me as soon as you are done checking on the code of conduct .
+Feel free to join me as long as you feel interested or concerned with my projects.
 <!--
 **Pablo65hub/Pablo65hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

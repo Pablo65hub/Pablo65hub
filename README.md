@@ -1,4 +1,5 @@
-## Hi there 👋This my GitHub 
+## Hi there 👋
+This my GitHub 
 where I transform ideas into fully functional products.
 Feel free to join me as long as you feel interested or concerned with my projects.
 <!--
